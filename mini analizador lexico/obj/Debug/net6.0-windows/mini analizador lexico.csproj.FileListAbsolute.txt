@@ -1,0 +1,17 @@
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\bin\Debug\net6.0-windows\mini analizador lexico.exe
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\bin\Debug\net6.0-windows\mini analizador lexico.deps.json
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\bin\Debug\net6.0-windows\mini analizador lexico.runtimeconfig.json
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\bin\Debug\net6.0-windows\mini analizador lexico.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\bin\Debug\net6.0-windows\mini analizador lexico.pdb
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.csproj.AssemblyReference.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini_analizador_lexico.Form1.resources
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.csproj.GenerateResource.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.AssemblyInfoInputs.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.AssemblyInfo.cs
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.csproj.CoreCompileInputs.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\refint\mini analizador lexico.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.pdb
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\mini analizador lexico.genruntimeconfig.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\mini analizador lexico\mini analizador lexico\obj\Debug\net6.0-windows\ref\mini analizador lexico.dll
